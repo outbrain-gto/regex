@@ -1,2 +1,2 @@
-# regex
+# Regex
 Learning Hour: Regex 
